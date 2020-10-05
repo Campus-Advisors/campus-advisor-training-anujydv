@@ -4,7 +4,7 @@ Welcome to Campus Advisor training. You will be presented with video lessons and
 
 In each module, you will find video lessons marked with this icon :tv: and assignments will be marked with this icon :notebook:. You can find your first video below:
 
-[:tv: Watch me before you begin](https://youtu.be/Ub8IMMMTfB8)
+[:tv: Watch me before you begin](https://youtu.be/Ub8IMMMTfB8)]
 
 ## This is your training
 
